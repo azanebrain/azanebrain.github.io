@@ -6,7 +6,7 @@ docpad run
 ```
 [http://localhost:9778/](http://localhost:9778/)
 
-## [Deploy](http://docpad.org/docs/deploy)
+## [Deploy](https://github.com/docpad/docpad-plugin-ghpages)
 ```
 docpad install ghpages
 docpad deploy-ghpages --env static
