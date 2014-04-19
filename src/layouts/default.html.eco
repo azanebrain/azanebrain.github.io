@@ -34,8 +34,6 @@
 		</div>
 	</div>
 
-	<%- @getBlock("scripts").add(["/bower_components/jquery/dist/jquery.min.js", "bower_components/foundation/js/foundation.min.js"]).toHTML() %>
- 
-  <%- @getBlock("scripts").add(["/scripts/z.js"]).toHTML() %>
+	<%- @getBlock("scripts").add(["bower_components/jquery/dist/jquery.min.js", "bower_components/foundation/js/foundation.min.js", "scripts/z.js"]).toHTML() %>
 </body>
 </html>
