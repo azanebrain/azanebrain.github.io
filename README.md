@@ -12,5 +12,12 @@ docpad install ghpages
 docpad deploy-ghpages --env static
 ```
 
+## Initialize
+```
+npm install
+bundle install
+bower install
+```
+
 ## License
 Copyright &copy; 2014+ All rights reserved.
