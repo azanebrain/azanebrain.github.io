@@ -1,7 +1,19 @@
 //Stylesheet
 
+@import theme/variables
+
 body
-	background-color: #272822
+	background-color: map-get($color, black)
+	color: $font-color-normal
+
+a
+	color: $link-color-normal
+	&:visited
+		color: $link-color-visited
+	&:hover
+		color: $link-color-hover
+	&:active
+		color: $link-color-active
 
 html, body
 	padding: 0

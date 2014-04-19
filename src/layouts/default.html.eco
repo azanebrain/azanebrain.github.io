@@ -3,6 +3,7 @@
   <title><%= @document.title %> | My Website</title>
   <%- @getBlock("meta").toHTML() %>
   <%- @getBlock("styles").toHTML() %>
+  <%- @getBlock("styles").add(["/styles/z.css"]).toHTML() %>
 </head>
 <body>
   <h1><%= @document.title %></h1>

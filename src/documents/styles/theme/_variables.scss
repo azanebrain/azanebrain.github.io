@@ -1,0 +1,23 @@
+//VARIABLES
+//In scss syntax so maps can be multi-line
+
+$color : (
+	black: #272822,
+	blue: #79ABFF,
+	blue-light: #BED6FF,
+	brown: #BFA4A4,
+	green: #7FB347,
+	pink: #D197D9,
+	red: #D25252,
+	salmon: #EFC090,
+	turquoise: #66CCB3,
+	yellow: #CCDF32,
+	white: #F8F8F2
+);
+
+$font-color-normal: map-get($color, white);
+
+$link-color-normal: map-get($color, salmon);
+$link-color-visited: $link-color-normal
+$link-color-hover: map-get($color, blue);
+$link-color-active: map-get($color, red);
