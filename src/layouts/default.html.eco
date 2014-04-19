@@ -8,5 +8,11 @@
   <h1><%= @document.title %></h1>
   <%- @content %>
   <%- @getBlock("scripts").toHTML() %>
+
+<br><br><br><br>
+  <div>
+  	<p>This is made with <a href="http://docpad.org/docs/begin#adding-assets" target="_blank">docpad</a></p>
+  	<p>supported with GitHub Pages</p>
+  </div>
 </body>
 </html>
