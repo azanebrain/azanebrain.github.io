@@ -2,14 +2,13 @@
 
 ## Run
 ```
-docpad run
+run
 ```
 [http://localhost:9778/](http://localhost:9778/)
 
 ## [Deploy](https://github.com/docpad/docpad-plugin-ghpages)
 ```
-docpad install ghpages
-docpad deploy-ghpages --env static
+deploy
 ```
 
 ## Initialize
@@ -17,6 +16,7 @@ docpad deploy-ghpages --env static
 npm install
 bundle install
 bower install
+source bash.sh
 ```
 
 ## License
