@@ -1,0 +1,20 @@
+{
+  "name": "azanebrain.github.io",
+  "version": "0.0.0",
+  "homepage": "http://azanebrain.github.io",
+  "authors": [
+    "AJ Zane <androiddreams@ajzane.com>"
+  ],
+  "description": "azanebrain website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.2.2"
+  }
+}

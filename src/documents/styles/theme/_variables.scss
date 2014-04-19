@@ -18,6 +18,6 @@ $color : (
 $font-color-normal: map-get($color, white);
 
 $link-color-normal: map-get($color, salmon);
-$link-color-visited: $link-color-normal
+$link-color-visited: $link-color-normal;
 $link-color-hover: map-get($color, blue);
 $link-color-active: map-get($color, red);
