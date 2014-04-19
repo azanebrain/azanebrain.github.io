@@ -2,18 +2,31 @@
 
 @import theme/variables
 
+//Vendors
+//Foundation
+@import settings
+@import bower_components/foundation/scss/foundation
+
 body
-	background-color: map-get($color, black)
-	color: $font-color-normal
+  background-color: map-get($color, black)
+  color: $font-color-normal
 
 a
-	color: $link-color-normal
-	&:visited
-		color: $link-color-visited
-	&:hover
-		color: $link-color-hover
-	&:active
-		color: $link-color-active
+  color: $link-color-normal
+  text-decoration: underline
+  &:visited
+    color: $link-color-visited
+  &:hover
+    color: $link-color-hover
+  &:active
+    color: $link-color-active
 
 html, body
-	padding: 0
+  padding: 0
+
+p
+  color: $font-color-normal
+  
+@for $i from 1 through 6
+  h#{$i}
+    color: $font-color-normal

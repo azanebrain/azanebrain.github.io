@@ -7,6 +7,8 @@ docpadConfig = {
     ghpages:
       deployRemote: 'origin'
       deployBranch: 'master'
+    sass:
+      outputStyle: 'compressed'
 }
 
 # Export the DocPad Configuration
