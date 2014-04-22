@@ -1,11 +1,22 @@
 ---
-title: "Front End North County San Diego Meetup"
+title: "Front End North County San Diego Meetup Recap"
 layout: "default"
-isPage: true
-Category: front end meetup
-Tag: meetup, front end dev, Tools
+name: "Front End Meetup Recap 4/17/2014"
 date: 2014-4-17
+url: "/news/fencsd-meetup-recap-april014"
+isPage: true
+category: front end meetup
+tags: ["meetup", "front end dev", "tools"]
 ---
+
+# meta block: 
+
+<%- @getBlock("meta").toHTML() %>
+
+# doc.feature:
+
+<%= @document.title %>  
+
 
 This month's meetup covered more dev tools and resources than I ever imagined. It was really impressive to see how much is out there, but also somewhat daunting. 
 
