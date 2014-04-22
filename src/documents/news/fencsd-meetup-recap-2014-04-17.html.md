@@ -4,6 +4,7 @@ layout: "default"
 isPage: true
 Category: front end meetup
 Tag: meetup, front end dev, Tools
+date: 2014-4-17
 ---
 
 This month's meetup covered more dev tools and resources than I ever imagined. It was really impressive to see how much is out there, but also somewhat daunting. 
