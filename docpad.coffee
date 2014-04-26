@@ -27,9 +27,9 @@ docpadConfig = {
 
       # Scripts
       scripts: [
-        "bower_components/jquery/dist/jquery.min.js"
-        , "bower_components/foundation/js/foundation.min.js"
-        , "scripts/z.js"
+        "/bower_components/jquery/dist/jquery.min.js"
+        , "/bower_components/foundation/js/foundation.min.js"
+        , "/scripts/z.js"
       ]
   # =================================
   # Collections

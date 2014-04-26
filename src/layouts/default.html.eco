@@ -8,7 +8,7 @@
   <%- @getBlock("styles").toHTML() %>
   <%- @getBlock("styles").add(["/styles/z.css"]).toHTML() %>
 
-	<%- @getBlock("scripts").add(["bower_components/modernizr/modernizr.js"]).toHTML() %>
+	<%- @getBlock("scripts").add(["/bower_components/modernizr/modernizr.js"]).toHTML() %>
 </head>
 <body>
   <%- @getBlock("scripts").toHTML() %>
