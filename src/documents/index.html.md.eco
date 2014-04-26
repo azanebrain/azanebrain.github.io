@@ -1,0 +1,12 @@
+---
+title: "Welcome!"
+layout: "default"
+isPage: true
+---
+
+Yo!
+
+I'm AJ Zane. I do web dev stuff.
+
+# Organizations
+<%- @partial('menu', {posttype:'orgs'}) %>

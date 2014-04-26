@@ -24,6 +24,13 @@
 		</div>
 	</div>
 
+	<div class="row">
+		<div class="large-12 columns">
+			<h2>Recent News:</h2>
+			<%- @partial('menu', {posttype:'news'}) %>
+		</div>
+	</div>
+
 	<br><br><br><br>
 	
 	<div class="row">

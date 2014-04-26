@@ -37,6 +37,8 @@ docpadConfig = {
   collections:
     news: -> 
       @getCollection("html").findAllLive({relativeOutDirPath: 'news'},[{date:-1}])
+    orgs: -> 
+      @getCollection("html").findAllLive({relativeOutDirPath: 'org'},[{name:1}])
 
   # =================================
   # Plugins

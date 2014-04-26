@@ -9,15 +9,6 @@ category: front end meetup
 tags: ["meetup", "front end dev", "tools"]
 ---
 
-# meta block: 
-
-<%- @getBlock("meta").toHTML() %>
-
-# doc.feature:
-
-<%= @document.title %>  
-
-
 This month's meetup covered more dev tools and resources than I ever imagined. It was really impressive to see how much is out there, but also somewhat daunting. 
 
 I hope this list helps others power up their dev skills. 

@@ -1,0 +1,19 @@
+---
+title: "Front End North County San Diego Meetup"
+layout: "default"
+name: "Front End North County San Diego Meetup"
+url: "/org/fencsd"
+isPage: true
+category: front end meetup
+tag: ["meetup", "front end dev"]
+---
+
+This is a monthly meetup that goes over all things front end development.
+
+Checkout out the Meetup page for our next meeting, and share your thoughts, projects, and questions on the G+ Community page.
+
+Posts from news with teh 'front end meetup' category
+
+<% for post in @getCollection('news').toJSON(): %>
+	- [<%= post.title %>](<%= post.url %>)
+<% end %>
