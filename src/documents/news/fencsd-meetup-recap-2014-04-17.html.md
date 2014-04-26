@@ -1,5 +1,5 @@
 ---
-title: "Front End North County San Diego Meetup Recap"
+title: "4/17 - Front End Tools and Resources"
 layout: "default"
 name: "Front End Meetup Recap 4/17/2014"
 date: 2014-4-17

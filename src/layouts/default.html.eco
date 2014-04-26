@@ -12,6 +12,14 @@
 </head>
 <body>
   <%- @getBlock("scripts").toHTML() %>
+
+This works :D
+  <ul>
+<% for post in @getCollection("news").toJSON(): %>
+    <li><a href="<%= post.url %>"><%= post.title %></a></li>
+<% end %>
+</ul>
+
 	<div class="row">
 		<div class="large-12 columns">
 		  <h1><%= @document.title %></h1>
@@ -34,6 +42,7 @@
 		</div>
 	</div>
 
-	<%- @getBlock("scripts").add(["bower_components/jquery/dist/jquery.min.js", "bower_components/foundation/js/foundation.min.js", "scripts/z.js"]).toHTML() %>
+	<%- @getBlock("scripts").add([]).toHTML() %>
+	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
 </body>
 </html>
