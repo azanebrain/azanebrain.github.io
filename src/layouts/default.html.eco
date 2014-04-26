@@ -13,13 +13,6 @@
 <body>
   <%- @getBlock("scripts").toHTML() %>
 
-This works :D
-  <ul>
-<% for post in @getCollection("news").toJSON(): %>
-    <li><a href="<%= post.url %>"><%= post.title %></a></li>
-<% end %>
-</ul>
-
 	<div class="row">
 		<div class="large-12 columns">
 		  <h1><%= @document.title %></h1>
