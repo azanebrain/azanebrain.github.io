@@ -1,14 +1,15 @@
 # Your [DocPad](http://docpad.org) Project
 
-## Run
+## Run and [Deploy](https://github.com/docpad/docpad-plugin-ghpages)
+You can source bash.sh and use the `run` and `deploy` aliases, or you can simple run the bash script:
 ```
-run
+bash run.sh
 ```
 [http://localhost:9778/](http://localhost:9778/)
 
-## [Deploy](https://github.com/docpad/docpad-plugin-ghpages)
+
 ```
-deploy
+bash deploy.sh
 ```
 
 ## Initialize

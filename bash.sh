@@ -1,2 +1,2 @@
-alias deploy="docpad deploy-ghpages --env static"
-alias run="docpad run"
+alias run="bash run.sh"
+alias deploy="bash deploy.sh"
