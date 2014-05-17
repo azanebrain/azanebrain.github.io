@@ -16,7 +16,7 @@
 	<div class="row">
 		<div class="large-12 columns">
 		  <h1><%= @document.title %></h1>
-		  <a href="/">Back home</a> 
+		  <p>Navigation: <a href="/">Back home</a> </p>
 		  <br><br>
 		</div>
 	</div>
