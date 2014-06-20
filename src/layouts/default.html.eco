@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title><%= @document.title %> | My Website</title>
+  <title><%= @document.title %> | my thoughts on web dev</title>
   <%- @getBlock("meta").toHTML() %>
   <%- @getBlock("styles").toHTML() %>
   <%- @getBlock("styles").add(["/styles/z.css"]).toHTML() %>
