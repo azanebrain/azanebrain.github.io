@@ -12,8 +12,12 @@ tags: ["meetup", "front end dev", "tools", "adobe"]
 
 We had a great session last night discussing Adobe’s position in the web dev community.
 
-I thought it was very interesting that there was unanimous agreement that these tools (especially Muse) are incredibly dangerous in the hands of those who don’t want to learn how to actually develop on the web, but want to offer that as a service. It will do nothing but fuel the ‘bicycle shop’ dilemma &mdash; The common phenomenon where, for example, if you were hiring a crew to make a nuclear power plant, you would stand back and let them handle it. But if you were building a bike shop, you feel like you understand the concepts and will have plenty of input. We see this in how clients approach design and functionality on their projects. Tools like Muse give someone with zero technical knowledge the ability to make a site like [these](http://muse.adobe.com/site-of-the-day).
+I thought it was very interesting how we had unanimous agreement that these tools (especially Muse) are incredibly dangerous in the hands of those who don’t want to learn how to actually develop on the web, but want to offer the service. 
 
-On the other hand, these tools could be a great resource for designers and beginners who want to learn code by seeing it react. Although I don’t trust the CSS Reflow spits out, the settings are in CSS property lexicon (border, padding, margin, floats, etc). As you change those settings you can see how the element warps. I expect it will lower the barrier of entry to anyone looking to dive into true front end web development.
+It will do nothing but fuel the ‘bicycle shop’ dilemma &mdash; The common phenomenon where, for example, if you were hiring a crew to make a nuclear power plant, you would stand back and let them handle it. But if you were building a bike shop, you feel like you understand the concepts and will have plenty of input. We see this in how clients approach design and functionality on their projects. Tools like Muse give someone with zero technical knowledge the ability to make sites like [these](http://muse.adobe.com/site-of-the-day).
+
+On the other hand, these tools could be a great resource for designers and beginners who want to learn code by seeing it react. Although I don’t trust the CSS which Reflow spits out, the settings are in CSS property lexicon (border, padding, margin, floats, etc). As you change those settings you can see how the element warps. 
+
+I expect it will lower the barrier of entry to anyone looking to dive into true front end web development.
 
 The slides: [Adobe Edge Tools and the Death of Web Development](http://azanebrain.github.io/slides-adobeedge)
