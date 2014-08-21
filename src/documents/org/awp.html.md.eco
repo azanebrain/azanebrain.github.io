@@ -1,0 +1,20 @@
+---
+title: "Advanced WordPress San Diego Meetup"
+layout: "default"
+name: "Advanced WordPress San Diego Meetup"
+url: "/org/awp"
+isPage: true
+category: "advanced wordpress meetup"
+tag: ["meetup", "wp", "awp"]
+---
+
+This is a monthly meetup that goes over the advanced side of WordPress.
+
+[Meetup](http://www.meetup.com/Advanced-WordPress/) | [Facebook](https://www.facebook.com/groups/advancedwp/)
+Check out what's been going on recently:
+
+<ul>
+	<% for post in @getCollection('news').findAllLive({category:'awp meetup'}).toJSON(): %>
+		<li><a href="<%= post.url %>"><%= post.title %></a></li>
+	<% end %>
+</ul>
