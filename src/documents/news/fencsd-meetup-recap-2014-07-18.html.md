@@ -1,5 +1,5 @@
 ---
-title: "7/18 - Sass Workshop"
+title: "Front End 7/18 - Sass Workshop"
 layout: "default"
 name: "Front End Meetup Recap 7/18/2014"
 date: 2014-7-18
