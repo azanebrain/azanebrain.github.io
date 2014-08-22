@@ -11,7 +11,7 @@ tags: ["meetup", "front end dev", "wordpress", "theme"]
 
 __Chris Perryman of [Revelation Concept](http://revelationconcept.com) presented a guide to WordPress theme selection and development strategy__
 
-She's an admin of the [Advanced WordPress Group](https://www.facebook.com/groups/advancedwp/), knows her code, and rocks great design. If you're getting into WordPress development, or need to setup a theme quickly, know this advice:
+She's an admin of the [Advanced WordPress Group](https://www.facebook.com/groups/advancedwp/), knows her code, and rocks great design. If you're getting into WordPress development, or need to setup a theme quickly, know this advice and check out the slides:
 
 <div style="text-align:center">
   <img src="/img/frontend-meetup-8-20.jpg">
@@ -53,3 +53,4 @@ Some of the biggies:
 Every project is different so you'll have to balance quality, speed, and budget. Each of these options will give your project different advantages and require a different approach. 
 If you're a PHP developer, it might be easier to go with a starter. If you have thirty minutes to launch a site, a premium theme will probably be the way to go. Or you could find the perfect premium theme that hits every deliverable of your project. 
 
+# [Check out the slides](http://revelationconcept.com/presentations/choosing-right-wordpress-theme)
