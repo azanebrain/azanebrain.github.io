@@ -1,7 +1,7 @@
 ---
-title: "Front End 4/17 - Front End Tools and Resources"
+title: "Front End April - Front End Tools and Resources"
 layout: "default"
-name: "Front End Meetup Recap 4/17/2014"
+name: "Front End Meetup Recap April"
 date: 2014-4-17
 url: "/news/frontend-meetup-recap-april014"
 isPage: true

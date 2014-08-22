@@ -1,7 +1,7 @@
 ---
-title: "Front End 8/21 - How to Select the Right WordPress Theme (or start building your own)"
+title: "Front End August - How to Select the Right WordPress Theme (or start building your own)"
 layout: "default"
-name: "Front End Meetup Recap 8/21/2014"
+name: "Front End Meetup Recap August"
 date: 2014-8-21
 url: "/news/frontend-meetup-recap-aug014"
 isPage: true

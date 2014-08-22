@@ -1,7 +1,7 @@
 ---
-title: "Front End 7/18 - Sass Workshop"
+title: "Front End July - Sass Workshop"
 layout: "default"
-name: "Front End Meetup Recap 7/18/2014"
+name: "Front End Meetup Recap July"
 date: 2014-7-18
 url: "/news/frontend-meetup-recap-july014"
 isPage: true

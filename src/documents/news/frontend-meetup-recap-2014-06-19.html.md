@@ -1,7 +1,7 @@
 ---
-title: "Front End 6/19 - Adobe Edge Tools and the Death of Web Development"
+title: "Front End June - Adobe Edge Tools and the Death of Web Development"
 layout: "default"
-name: "Front End Meetup Recap 6/19/2014"
+name: "Front End Meetup Recap June"
 date: 2014-6-19
 url: "/news/frontend-meetup-recap-june014"
 isPage: true

@@ -1,7 +1,7 @@
 ---
-title: "AWP 8/20 - Image Effects"
+title: "AWP August - Image Effects"
 layout: "default"
-name: "AWP Meetup 8/20/2014"
+name: "AWP Meetup August"
 date: 2014-8-20
 url: "/news/awp-meetup-august014"
 isPage: true
