@@ -2,7 +2,7 @@
 title: "Front End North County San Diego Meetup"
 layout: "default"
 name: "Front End North County San Diego Meetup"
-url: "/org/fencsd"
+url: "/org/frontend"
 isPage: true
 category: "front end meetup"
 tag: ["meetup", "front end dev"]

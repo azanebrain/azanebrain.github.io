@@ -3,7 +3,7 @@ title: "Front End 6/19 - Adobe Edge Tools and the Death of Web Development"
 layout: "default"
 name: "Front End Meetup Recap 6/19/2014"
 date: 2014-6-19
-url: "/news/fencsd-meetup-recap-june014"
+url: "/news/frontend-meetup-recap-june014"
 isPage: true
 category: "front end meetup"
 tags: ["meetup", "front end dev", "tools", "adobe"]

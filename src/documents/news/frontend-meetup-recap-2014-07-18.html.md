@@ -3,7 +3,7 @@ title: "Front End 7/18 - Sass Workshop"
 layout: "default"
 name: "Front End Meetup Recap 7/18/2014"
 date: 2014-7-18
-url: "/news/fencsd-meetup-recap-july014"
+url: "/news/frontend-meetup-recap-july014"
 isPage: true
 category: "front end meetup"
 tags: ["meetup", "front end dev", "sass"]
