@@ -1,6 +1,6 @@
 ---
 title: "Join the BorgPress"
-layout: "default"
+layout: "news"
 name: "Join the BorgPress"
 date: 2014-6-7
 url: "/news/join-the-borgpress"

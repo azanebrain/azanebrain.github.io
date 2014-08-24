@@ -15,6 +15,7 @@
 <div class="row">
   <div class="large-12 columns">
     <h1><%= @document.title %></h1>
+    <p><em>Posted on: <%= @document.date %></em></p>
     <%- @partial('nav') %>
     <br><br>
   </div>
@@ -27,7 +28,7 @@
 
 <div class="row">
   <div class="large-12 columns">
-    <h2>Recent News:</h2>
+    <h2>Similar Articles:</h2>
     <%- @partial('menu', {posttype:'news'}) %>
   </div>
 </div>

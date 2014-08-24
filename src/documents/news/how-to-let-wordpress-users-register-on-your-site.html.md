@@ -1,6 +1,6 @@
 ---
 title: "How To: Let WordPress users register on your site"
-layout: "default"
+layout: "news"
 name: "How To: Let WordPress users register on your site"
 date: 2013-8-30
 url: "/news/how-to-let-wordpress-users-register-on-your-site"

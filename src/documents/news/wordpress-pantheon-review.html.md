@@ -1,6 +1,6 @@
 ---
 title: "WordPress on Pantheon Review"
-layout: "default"
+layout: "news"
 name: "WordPress on Pantheon Review"
 date: 2014-5-2
 url: "/news/wordpress-pantheon-review"

@@ -1,6 +1,6 @@
 ---
 title: "Front End August - How to Select the Right WordPress Theme (or start building your own)"
-layout: "default"
+layout: "news"
 name: "Front End Meetup Recap August"
 date: 2014-8-21
 url: "/news/frontend-meetup-recap-aug014"

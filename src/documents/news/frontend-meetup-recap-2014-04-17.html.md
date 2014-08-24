@@ -1,6 +1,6 @@
 ---
 title: "Front End April - Front End Tools and Resources"
-layout: "default"
+layout: "news"
 name: "Front End Meetup Recap April"
 date: 2014-4-17
 url: "/news/frontend-meetup-recap-april014"

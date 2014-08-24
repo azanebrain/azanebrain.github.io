@@ -1,6 +1,6 @@
 ---
 title: "Front End July - Sass Workshop"
-layout: "default"
+layout: "news"
 name: "Front End Meetup Recap July"
 date: 2014-7-18
 url: "/news/frontend-meetup-recap-july014"

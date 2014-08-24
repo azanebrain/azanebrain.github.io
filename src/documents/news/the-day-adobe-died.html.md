@@ -1,6 +1,6 @@
 ---
 title: "The Day the Adobe Died"
-layout: "default"
+layout: "news"
 name: "The Day the Adobe Died"
 date: 2014-5-16
 url: "/news/the-day-the-adobe-died"
