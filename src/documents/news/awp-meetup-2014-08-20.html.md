@@ -1,6 +1,6 @@
 ---
 title: "AWP August - Image Effects"
-layout: "default"
+layout: "news"
 name: "AWP Meetup August"
 date: 2014-8-20
 url: "/news/awp-meetup-august014"
@@ -48,3 +48,5 @@ Broken and not-quite-there plugins that supposedly do this:
 Why isn't there a tool that does this simple effect already?
 
 Is this cross some kind of difficulty line? Where since it's so easy to plug something in on the theme layer, developers will do that instead of providing an interface? Or is the audience who wants these kind of effects looking for a mega-solution?
+
+For everyone who wants to see the other awesome media presentations from the night, you can [watch the stream on YouTube](https://www.youtube.com/watch?v=-cQLbQGfYyA&feature=youtu.be)
