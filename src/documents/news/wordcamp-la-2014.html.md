@@ -1,0 +1,27 @@
+---
+title: "Wordcamp LA 2014"
+layout: "news"
+name: "Join the BorgPress"
+date: 2014-9-9
+url: "/news/wclax-2014"
+isPage: true
+category: "conference"
+tags: ["wordpress", "wordcamp", "wclax", "2014"]
+excerpt: "My experiences from WordCamp LA 2014"
+---
+
+WordCamps are great tech conferences for learning not only about the basics and advanced topics of the platform, but to also pick up on community trends, hang out with awesome people, and *steal business secrets.*
+
+[Wordcamp LA 2014](2014.la.wordcamp.org) happened over this weekend. The organizers introduced a really cool
+interview structure on Friday. I found a space in the business track and settle down for live interviews between a great gathering of successful business owners and WP pros.
+
+For how much the tickets were, it was amazing to get such candid and incredible insight and techniques from awesome people like Jennifer Bourn, Karim Marucchi, Taylor Aldridge, Wes Chyrchel, Greg Douglas, Jeff Turner, Jeff Zinn, Lisa Tsou, Chris Lema, Konstantin Obenland, Dave Jesch, Nick Halsey, Matt Boynes, Roy Sivan...
+
+## This openness to share puts the WP community far ahead of any other group I've ever seen
+
+This is what I mean by "stealing" business secrets. WordPress company owners are glad to explain to you why their business model works. They're also glad to share their shortcomings and mistakes. 
+
+**It's infectious and awesome.**
+
+Everyone is so focused on raising the bar and pushing the platform forward that you cannot help but get inspired.
+

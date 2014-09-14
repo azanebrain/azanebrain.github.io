@@ -5,7 +5,7 @@ name: "Join the BorgPress"
 date: 2014-6-7
 url: "/news/join-the-borgpress"
 isPage: true
-category: ""
+category: "conference"
 tags: ["wordpress", "wordcamp", "wcoc", "2014"]
 excerpt: "My review of WordCamp OC 2014"
 ---
