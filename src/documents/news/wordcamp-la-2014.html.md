@@ -1,7 +1,7 @@
 ---
 title: "Wordcamp LA 2014"
 layout: "news"
-name: "Join the BorgPress"
+name: "WordCamp LA 2014"
 date: 2014-9-9
 url: "/news/wclax-2014"
 isPage: true
