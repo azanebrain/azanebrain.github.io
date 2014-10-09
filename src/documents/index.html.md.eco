@@ -8,5 +8,7 @@ isPage: true
 
 I'm AJ Zane. I do web dev stuff.
 
-# Organizations
+# [Organizations](organizations)
 <%- @partial('menu', {posttype:'orgs'}) %>
+
+I also do [presentations](http://azanebrain.github.io/presentations)
