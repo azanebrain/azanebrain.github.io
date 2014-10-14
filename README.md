@@ -5,25 +5,22 @@ My site all about web development.
 a [docpad](http://docpad.org) project
 
 ## Run and [Deploy](https://github.com/docpad/docpad-plugin-ghpages)
-You can source bash.sh and use the `run` and `deploy` aliases, or you can simple run the bash script:
 ```
-bash run.sh
+npm run start
 ```
-[http://localhost:9778/](http://localhost:9778/)
+Open on [http://localhost:9778/](http://localhost:9778/)
 
 The source files are automatically generated and deployed into the `master` branch, from `dev`.
 
 ```
-bash deploy.sh
+npm run deploy
 ```
 
-## Initialize
+## Setup
 ```
 npm install
-bundle install
-bower install
-source bash.sh
 ```
+If there are issues with gems run `bundle install`
 
 ## License
 Copyright &copy; 2014+ All rights reserved.
