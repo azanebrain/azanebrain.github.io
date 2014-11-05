@@ -9,6 +9,17 @@ isPage: true
 I'm AJ Zane. I do web dev stuff.
 
 # [Organizations](organizations)
-<%- @partial('menu', {posttype:'orgs'}) %>
+<ul>
+  <%- @partial('menu', {posttype:'orgs'}) %>
+</ul>
 
 I also do [presentations](http://azanebrain.github.io/presentations)
+
+<div class="row">
+  <div class="large-12 columns">
+    <h2>Recent News:</h2>
+    <ul>
+      <%- @partial('menu', {posttype:'news'}) %>
+    </ul>
+  </div>
+</div>

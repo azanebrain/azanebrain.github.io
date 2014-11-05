@@ -1,0 +1,5 @@
+<% # @num is the number of results %>
+
+<% for post in @getCollection(@posttype).toJSON(): %>
+  <li><a href="<%= post.url %>"><%= post.title %></a></li>
+<% end %>

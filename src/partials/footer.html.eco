@@ -1,0 +1,35 @@
+        </div>
+      </div>
+      <br><br><br><br>
+      <div class="row">
+        <div class="large-6 small-12 columns">
+          <p>Made with <a href="http://docpad.org/docs/begin#adding-assets" target="_blank">DocPad</a></p>
+        </div>
+        <div class="large-6 small-12 columns">
+          <p>Hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a></p>
+        </div>
+        <div class="large-12 columns">
+          <p>&copy; 2014 AJ Zane (unless otherwise noted)</p>
+        </div>
+
+      </div>
+      <a class="exit-off-canvas"></a>
+    </section>
+  </div>
+</div>
+
+<%- @getBlock("scripts").add(["/bower_components/foundation/js/foundation.min.js"]).toHTML() %>
+<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-55599516-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

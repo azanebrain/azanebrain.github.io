@@ -1,0 +1,10 @@
+<aside class="left-off-canvas-menu">
+  <ul class="off-canvas-list">
+    <li><a href="/">BACK HOME</a></li>
+    <li><label>ORGANIZATIONS</label></li>
+    <li><a href="/org/awp">Advanced WordPress</a></li>
+    <li><a href="/org/frontend">Front End Authority</a></li>
+    <li><label>RECENT NEWS</label></li>
+    <%- @partial('menu', {posttype:'news', num:5}) %>
+  </ul>
+</aside>
