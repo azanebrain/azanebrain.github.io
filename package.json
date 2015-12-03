@@ -1,0 +1,29 @@
+{
+  "name": "azanebrain-dev-log",
+  "version": "2.0.1",
+  "description": "A site logging my development experiences",
+  "author": "AJ Zane <androiddreams@AJZane.com>",
+  "homepage": "https://azanebrain.github.io/",
+  "engines": {
+    "node": ">=v0.12.5"
+  },
+  "scripts": {
+    "build": "echo \"Error: there is no build command specified\" && exit 1",
+    "deploy": "bundle exec jekyll deply",
+    "postinstall": "node_modules/.bin/bower install",
+    "start": "bundle exec jekyll serve --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azanebrain/azanenrain.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azanebrain/azanenrain.github.io/issues"
+  },
+  "private": true,
+  "license": "GPL2"
+}
