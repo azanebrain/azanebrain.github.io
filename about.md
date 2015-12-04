@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an interactive web developer, narrative designer, &amp; community strengthener.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+By constantly practicing the crafts of code development &amp; efficient messaging I aim to create engaging experiences that make people reconsider the definition of normal.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+By creating opportunities for knowledge sharing in digital &amp; physical communities, I strive to raise the bar of excellence in the interactive dev industry &amp; give people the confidence and skills to push the web forward.
+
+Every day I try to make something cooler than it was before.
+
+I work as a Front End Developer at [Veyo Logistics](https://veyo.com), I organize [Front End Authority](http://FrontEndAuthority.org), and I admin [Advanced WordPress](http://advancedwp.org).
+
+I am [AJ Zane](http://AJZane.com). This is where I log what I'm learning.
