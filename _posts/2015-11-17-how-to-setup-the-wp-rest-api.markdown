@@ -5,7 +5,7 @@ date:   2015-11-17 07:18:13 -0800
 categories: 
 ---
 
-_(This is part of a series on [how I used WordPress to create a functional app prototype in a 54 hour startup weekend](/2015/11/15/startup-weekend-winter-2015/))_
+_(This is part of a series on [how I used WordPress to create a functional app prototype in a 54 hour startup weekend](/news/startup-weekend-winter-2015/). There are references in this article to code samples and concepts mentioned in previous articles so take a look at those if something here doesn't make sense)_
 
 All you need to open up the REST API is the plugin. There are over 362 results if you search “rest api” in the plugin repository (in late 2015) so make sure you install [WP REST API (WP API)](https://wordpress.org/plugins/json-rest-api/) by the WP REST API Team. Activate and BOOM. All done.
 

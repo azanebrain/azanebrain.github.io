@@ -14,10 +14,14 @@ Although my team didn't win any awards, it was an incredibly fun and inspiring e
 
 Articles:
 
-- [Intro to the WP Rest API](/2015/11/15/intro-to-wp-rest-api) - A brief overview of what the WP JSON REST API is and why it's important
-- [How to set up the WP REST API](/2015/11/17/how-to-setup-the-wp-rest-api/) - A guide on setting up the JSON REST API on your WordPress site
+- [Intro to the WP Rest API](/news/intro-to-wp-rest-api/) - A brief overview of what the WP JSON REST API is and why it's important
+- Anatomy of a WP-powered mobile app
+- [How to set up the WP REST API](/news/how-to-setup-the-wp-rest-api/) - A guide on setting up the JSON REST API on your WordPress site
+- A newbs quick, technical intro to Ionic
+- [Getting Ionic Talking to WordPress](/news/getting-ionic-talking-to-wp/) - Functional steps to get data from your WP site into your Ionic app
+- Angular Routing in Ionic
+- Styling in Ionic
 
 Upcoming articles and topics:
 
-- Anatomy of a WP-powered mobile app
-- Getting Ionic to talk to the WP API
+- Using Postman to request data from a WordPress site

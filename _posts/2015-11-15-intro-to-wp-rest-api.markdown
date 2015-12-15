@@ -5,7 +5,7 @@ date:   2015-11-15 08:18:13 -0800
 categories: 
 ---
 
-_(This is part of a series on [how I used WordPress to create a functional app prototype in a 54 hour startup weekend](/2015/11/15/startup-weekend-winter-2015/))_
+_(This is part of a series on [how I used WordPress to create a functional app prototype in a 54 hour startup weekend](/news/startup-weekend-winter-2015/). There are references in this article to code samples and concepts mentioned in previous articles so take a look at those if something here doesn't make sense)_
 
 If you're not familiar with the [WordPress REST API](https://wordpress.org/plugins/json-rest-api/) and how it plays into the modern web development ecosystem, it's kind of like the cinnamon you put on eggnog; You can definitely have eggnog without it, but you're doing it wrong and limiting the grand flavor of a delicious drink.
 
