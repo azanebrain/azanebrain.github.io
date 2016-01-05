@@ -17,7 +17,7 @@ Articles:
 - [Intro to the WP Rest API](/news/intro-to-wp-rest-api/) - A brief overview of what the WP JSON REST API is and why it's important
 - Anatomy of a WP-powered mobile app
 - [How to set up the WP REST API](/news/how-to-setup-the-wp-rest-api/) - A guide on setting up the JSON REST API on your WordPress site
-- A newbs quick, technical intro to Ionic
+- [A Noob's Quick, Technical Intro to Ionic](/news/ionic-quick-intro) - A quick intro to getting setup with Ionic and the resources I used to learn it
 - [Getting Ionic Talking to WordPress](/news/getting-ionic-talking-to-wp/) - Functional steps to get data from your WP site into your Ionic app
 - Angular Routing in Ionic
 - Styling in Ionic
