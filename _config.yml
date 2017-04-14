@@ -15,6 +15,7 @@ url: "http://azanebrain.github.io" # the base hostname & protocol for your site
 twitter_username: azanebrain
 github_username:  azanebrain
 permalink:        /news/:title/
+google_analytics: UA-55599516-2 
 
 # Build settings
 markdown: kramdown
