@@ -16,6 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "bower": "1.8.0"
   },
   "repository": {
     "type": "git",
