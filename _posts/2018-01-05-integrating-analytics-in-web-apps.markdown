@@ -15,3 +15,8 @@ Segment is an awesome, non-opinionated tool that let's you move analytic data ar
 ## [Part 2: Using Angular Environments to Configure Multiple Segment Sources](https://medium.com/veyotech/using-angular-environments-to-configure-multiple-segment-sources-3e4ce6897a3)
 
 In this part, I share how, using Angular CLI's environments feature, you can configure you analytics to separate data for different use cases, such as separating Development and Production data.
+
+## [Part 3: Connecting Segment to Google Analytics](https://medium.com/@VeyoTech/connecting-segment-to-google-analytics-89cdad007257)
+
+This article dives into getting your data _out_ of Segment and into an analytics visualization tool like Google Analytics.
+
