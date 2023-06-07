@@ -7,7 +7,7 @@
 
 # Site settings
 title: AJ Zane's Dev Log
-email: androiddreams@AJZane.com.com
+email: AndroidDreams@AJZane.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm AJ Zane. I do web stuff. This is where I log my development experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
