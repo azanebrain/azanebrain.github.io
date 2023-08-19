@@ -6,7 +6,7 @@ categories: "Coding Tips"
 tags: ["code", "code-techniques", "patterns-and-practices"]
 ---
 
-![Picture of a dirty tactile pavement](/assets/texture-dirtytactilepaintingnewyork.png "")
+![Picture of a dirty tactile pavement](/assets/texture-dirtytactilepaintingnewyork.png)
 
 Naming things is hard.
 
