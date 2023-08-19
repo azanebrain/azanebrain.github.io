@@ -4,7 +4,7 @@ title: "The Power of 'foo_*': The Art of Balancing Flow and Clarity when Naming 
 date: 2023-08-19
 categories: "Coding Tips"
 tags: ["code", "code-techniques", "patterns-and-practices"]
-—
+---
 
 ![Picture of a dirty tactile pavement](/assets/texture-dirtytactilepaintingnewyork.png "")
 
