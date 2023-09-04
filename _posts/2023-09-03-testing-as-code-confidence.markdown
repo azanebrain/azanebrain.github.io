@@ -6,7 +6,9 @@ categories: "Code"
 tags: ["testing", "code"]
 ---
 
-!["Aspiring to Pumpkin's Love, the Love in My Heart" by Yayoi Kusama, David Zwirner gallery, New York, 2023](/assets/kusama-yayoi-aspiring-to-pumpkins-love.png)
+!["Aspiring to Pumpkin's Love, the Love in My Heart" by Yayoi Kusama, David Zwirner gallery, New York, 2023](/assets/kusama-yayoi-aspiring-to-pumpkins-love.png "&quot;Aspiring to Pumpkin's Love, the Love in My Heart&quot; by Yayoi Kusama, David Zwirner gallery, New York, 2023")
+
+_"Aspiring to Pumpkin's Love, the Love in My Heart" by Yayoi Kusama, David Zwirner gallery, New York, 2023_
 
 When it comes to testing, I see developers viewing it as a chore because tests are being used to confirm that code works. This misses the true essence of testing.
 
